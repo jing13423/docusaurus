@@ -1,6 +1,6 @@
 ---
 slug: /case-study/
-title: Cast Study
+title: Cast Stud
 sidebar_label: 'Case study: Index'
 ---
 
